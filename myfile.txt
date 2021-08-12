@@ -1,0 +1,154 @@
+[06/24/2019 11:15:42] bounce_description: 	bounce_code: 	sender: 	to: 	subject: 	x_smtplw: 
+[06/24/2019 11:16:20] opened_at: 2019-06-24T11:17:15-03:00	sender: 	to: 	subject: 	x_smtplw: 
+[06/24/2019 19:18:31] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: kacinsetos@ig.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:31] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: social@afetur.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:31] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: claudio@suacasathe.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:31] bounce_description: Incapaz de rotear	bounce_code: 5.4.4	sender: contato@afetur.com.br	to: edinammcosta@hotmai.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:31] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: demontierfelipe@yahoo.combr	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: farinta@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: diemmillycastro@hotmail.con	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: lima.coronel@bol.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: cfosorio@bol.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: omonteiro1@globo.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:32] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: prittcorretora@ig.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: expeditoaraujo20102011@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: leilianacaracas@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: renatoc.rolimjr@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: jose.valdo@mp.ce.gov.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: jamila.lima@cnama.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: julio@lossio.nrt	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: mairtonagneves@yahoo.com.pbr	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: gigetemuratori@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: M-FATIMA26@HOTMAIL.COM	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Incapaz de rotear	bounce_code: 5.4.4	sender: contato@afetur.com.br	to: samuelfpires@yhaoo.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:33] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: mariajoseesmeraldo@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: setran_douglaspinho@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: solange.veras@sefaz.ce.gov.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: mgurgel@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: andradehr@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ciceropesadvogados@bol.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: augucastro@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: cristiane@dunnamoveis.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: torquato@waltertorquato.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: jasobrinho@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: deise-onso@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: limamsocorro@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:34] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: luzia.fil@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: raimundojosemoura@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: ivaneidemas@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: ritaneide@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: mazevides@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: nissia.rocha@ig.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: wilmercysnepradovasconcelos@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:35] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: glauciaedudu@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:36] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: maxwell.stubbe@ecolea.mv.lo-net2.de	subject: 	x_smtplw: 
+[06/24/2019 19:18:36] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: timlenk@web.de	subject: 	x_smtplw: 
+[06/24/2019 19:18:37] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: seridiao@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:37] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mariaesteves@terra.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:37] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mgracateixeira@terra.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:37] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: paulo@dunnamoveis.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:37] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: joao.jose31@terra.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:38] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: claudioary@fortalnet.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:38] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: jreugpet@fortalnet.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:38] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: aldeni@fazauto.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:39] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: marleuza.gondim@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:18:40] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: j.augusto@elointernet.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:18:43] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: emma.lindholm@kolumbus.fi	subject: 	x_smtplw: 
+[06/24/2019 19:19:12] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: macia_vital@oi.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:19:18] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: luar09@oi.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:19:22] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mariadulcenidesnegreiros@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:19:59] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: claudiabrandmcsf@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:20:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: rrdacruz4490@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:21:31] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: majorelizet@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:22:16] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: eduardocampos44906@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:22:24] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ansio.neves@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:22:34] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: bill000021@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:22:46] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: emersonmevidence@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:23:04] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mauriciobezerra14333@gmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:23:15] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: jorgemarciel@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:29:15] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: carlosbaldoinosrn@Hotmail.co	subject: 	x_smtplw: 
+[06/24/2019 19:32:14] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: boivim.30@hotmail.com	subject: 	x_smtplw: 
+[06/24/2019 19:48:13] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: leila-mmsilveira@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:49:47] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: analigiamiranda@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:54:20] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: fcamarcorc@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:54:47] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: guaraciabaneto@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:54:47] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: dilsealira@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 19:57:32] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: marcosageu@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 20:03:42] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ezequiel.barbosa09@yahoo.com	subject: 	x_smtplw: 
+[06/24/2019 20:05:50] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: sandravianagomes@yahoo.com.br	subject: 	x_smtplw: 
+[06/24/2019 20:06:32] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: rm@yahoo.com.br	subject: 	x_smtplw: 
+[06/25/2019 07:18:42] bounce_description: Caixa postal está cheia	bounce_code: 5.2.2	sender: contato@afetur.com.br	to: guilherme@construtorarionorte.com	subject: 	x_smtplw: 
+[06/25/2019 07:22:52] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: juniorbonfim@msm.com	subject: 	x_smtplw: 
+[06/25/2019 07:28:54] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: mifilha100@hormail.com	subject: 	x_smtplw: 
+[06/25/2019 17:23:46] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: Mardnardo@sert.com.br	subject: É hoje, solenidade de posse.	x_smtplw: 
+[06/25/2019 17:23:46] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: neide@cefetce.br	subject: É hoje, solenidade de posse.	x_smtplw: 
+[06/25/2019 17:28:19] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: rejass@gmail.com	subject: É hoje, solenidade de posse.	x_smtplw: 
+[06/26/2019 05:31:58] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: romeulcn@gmail.com.br	subject: É hoje, solenidade de posse.	x_smtplw: 
+[06/26/2019 16:31:36] opened_at: 2019-06-26T16:32:33-03:00	sender: contato@afetur.com.br	to: contato@afetur.com.br	subject: Afetur - Orçamento	x_smtplw: 
+[06/27/2019 08:37:35] opened_at: 2019-06-27T08:38:31-03:00	sender: contato@afetur.com.br	to: marilia@afetur.com.br	subject: [Afetur Turismo e Viagens] Seu nome de usuário e senha	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: claudio@suacasathe.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: cfosorio@bol.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: diemmillycastro@hotmail.con	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: nissia.rocha@ig.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: boivim.30@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: prittcorretora@ig.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: ivaneidemas@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: omonteiro1@globo.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: deise-onso@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: mairtonagneves@yahoo.com.pbr	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Servidor de destino não existe ou é incapaz de receber emails	bounce_code: 5.1.2	sender: contato@afetur.com.br	to: jamila.lima@cnama.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:54] bounce_description: Incapaz de rotear	bounce_code: 5.4.4	sender: contato@afetur.com.br	to: edinammcosta@hotmai.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: kacinsetos@ig.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: andradehr@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: jorgemarciel@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: leilianacaracas@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: eduardocampos44906@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: bill000021@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: expeditoaraujo20102011@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: raimundojosemoura@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: jasobrinho@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: leila-mmsilveira@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: jose.valdo@mp.ce.gov.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: dilsealira@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:55] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: augucastro@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: fcamarcorc@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: limamsocorro@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: analigiamiranda@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: marcosageu@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: mariajoseesmeraldo@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: setran_douglaspinho@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: farinta@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: renatoc.rolimjr@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: rm@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: guaraciabaneto@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: wilmercysnepradovasconcelos@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: seridiao@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:56] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: ritaneide@hotmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: mazevides@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ezequiel.barbosa09@yahoo.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: Desconhecido	bounce_code: 5.0.0	sender: contato@afetur.com.br	to: sandravianagomes@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mariadulcenidesnegreiros@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: Incapaz de rotear	bounce_code: 5.4.4	sender: contato@afetur.com.br	to: samuelfpires@yhaoo.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:57] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: maxwell.stubbe@ecolea.mv.lo-net2.de	subject: 	x_smtplw: 
+[07/08/2019 06:25:58] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ciceropesadvogados@bol.com	subject: 	x_smtplw: 
+[07/08/2019 06:25:58] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: timlenk@web.de	subject: 	x_smtplw: 
+[07/08/2019 06:25:58] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: joao.jose31@terra.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:59] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mgracateixeira@terra.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:59] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mariaesteves@terra.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:25:59] bounce_description: Entrega não autorizada mensagem recusada	bounce_code: 5.7.1	sender: contato@afetur.com.br	to: torquato@waltertorquato.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:26:00] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: claudioary@fortalnet.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:26:05] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: emma.lindholm@kolumbus.fi	subject: 	x_smtplw: 
+[07/08/2019 06:26:17] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: majorelizet@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:26:34] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: macia_vital@oi.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:26:40] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: ansio.neves@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:29:31] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: lima.coronel@bol.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:30:06] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: mauriciobezerra14333@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:30:10] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: marleuza.gondim@gmail.com	subject: 	x_smtplw: 
+[07/08/2019 06:35:44] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: glauciaedudu@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 06:41:05] bounce_description: O endereço da caixa de emails especificada não existe	bounce_code: 5.1.1	sender: contato@afetur.com.br	to: luar09@oi.com.br	subject: 	x_smtplw: 
+[07/08/2019 18:27:45] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: juniorbonfim@msm.com	subject: 	x_smtplw: 
+[07/08/2019 18:33:07] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: meirequaresma@yahoo.com.br	subject: 	x_smtplw: 
+[07/08/2019 18:33:07] bounce_description: Status desconhecido do protocolo	bounce_code: 5.5.0	sender: contato@afetur.com.br	to: romeucprado@yahoo.com.br	subject: 	x_smtplw: 
+[07/10/2019 15:16:00] bounce_description: Sistema não está aceitando mensagens	bounce_code: 5.3.2	sender: contato@afetur.com.br	to: c.murilo@me.com	subject: 	x_smtplw: 
+[07/11/2019 03:27:55] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: reginaviana@netbandalarga.com.br	subject: 	x_smtplw: 
+[07/11/2019 03:54:42] bounce_description: Sem resposta do servidor	bounce_code: 5.4.1	sender: contato@afetur.com.br	to: reginaviana@netbandalarga.com.br	subject: 	x_smtplw: 

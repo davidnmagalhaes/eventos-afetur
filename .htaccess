@@ -1,0 +1,10 @@
+
+RewriteEngine On
+
+Options All -Indexes
+
+RewriteRule ^cracha([0-9]+)/?$ cracha/index.php?ref=$1 [NC,L]
+
+
+
+
