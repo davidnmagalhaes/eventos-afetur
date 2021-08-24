@@ -35,6 +35,7 @@ if(isset($ref)):
 		$ingresso = $_POST['ingresso'];
 		$valor = $_POST['valor'];
 		$quantidade = $_POST['quantidade'];
+		$daysduedate = $row_eventos['days_due_date'];
 		
 		
 		$nome = $_POST['nome'];
@@ -82,7 +83,12 @@ $divideparcela = $totalboleto / $qtdparcelas;
 $parcela = 0; // Não Alterar DEVE SEMPRE INICIAR EM 0 
 $parcelaf = $qtdparcelas; // numero de parcelas que deseja o carne
 $dataHoje = date('Y-m-d'); //não alterar, busca a data atual
-$diavencimento = date('Y-m-d', strtotime("+5 days")); // Data do vencimento da primeira parcela, em formato Universal Y-M-D
+if($daysduedate == 0 || empty($daysduedate)){
+	$diavencimento = date('Y-m-d', strtotime("+5 days")); // Data do vencimento da primeira parcela, em formato Universal Y-M-D
+}else{
+	$diavencimento = date('Y-m-d', strtotime("+".$daysduedate." days"));
+}
+
 while ($parcela < $parcelaf): // laço que calcula a quantidade de vezes que deve requisitar os boletos.
     if ($parcela > 0):
         $novovencimento = date('Y-m-d', strtotime('+ ' . $parcela . ' months', strtotime($diavencimento)));

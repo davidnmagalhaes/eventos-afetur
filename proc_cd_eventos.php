@@ -49,6 +49,7 @@ if(isset($_POST)){ //Se existir POST executa
 	$tokenpaghiper = $_POST['tokenpaghiper'];
 	$clientidpaypal = $_POST['clientidpaypal'];
 	$qtdboleto = $_POST['qtdboleto'];
+	$daysduedate = $_POST['days_due_date'];
 	$ativo = 1;
 	$unidade = $_POST['unidade'];
 	$diascheckin = $_POST['diascheckin'];
@@ -87,8 +88,8 @@ if(isset($_POST)){ //Se existir POST executa
 	if($checkrows>0){
       echo "Evento j&aacute; existe!";
 	} else {  
-		$sql = "INSERT INTO evn_eventos (tokenpaghiper, dias_checkin, qtdboleto, ativo, ref, modelo_evento, nome_evento, data_inicio, data_final, hora_inicio, hora_final, ref_ingresso, local_nome, local_cep, local_logradouro, local_numero, local_complemento, local_bairro, local_cidade, local_estado, descricao_evento, organizador_nome, organizador_descricao, campo_adicional, local_pais, moeda, logo, tokenpagseguro, appidpagseguro, appkeypagseguro, appkeypaghiper, clientidpaypal, emailpagseguro)
-		VALUES ('$tokenpaghiper','$diascheckin', '$qtdboleto','$ativo','$ref', '$diretorio', '$nome', '$datainicial','$datafinal','$horainicial','$horafinal','$refingresso', '$localnome', '$cep', '$rua', '$numero', '$complemento', '$bairro', '$cidade', '$estado', '$descricaoevento', '$nomeorganizador', '$descricaoorganizador', '$campoadicional', '$pais', '$moeda', '$pasta', '$tokenpagseguro', '$appidpagseguro', '$appkeypagseguro', '$appkeypaghiper', '$clientidpaypal', '$emailpagseguro');";
+		$sql = "INSERT INTO evn_eventos (days_due_date, tokenpaghiper, dias_checkin, qtdboleto, ativo, ref, modelo_evento, nome_evento, data_inicio, data_final, hora_inicio, hora_final, ref_ingresso, local_nome, local_cep, local_logradouro, local_numero, local_complemento, local_bairro, local_cidade, local_estado, descricao_evento, organizador_nome, organizador_descricao, campo_adicional, local_pais, moeda, logo, tokenpagseguro, appidpagseguro, appkeypagseguro, appkeypaghiper, clientidpaypal, emailpagseguro)
+		VALUES ('$daysduedate', '$tokenpaghiper','$diascheckin', '$qtdboleto','$ativo','$ref', '$diretorio', '$nome', '$datainicial','$datafinal','$horainicial','$horafinal','$refingresso', '$localnome', '$cep', '$rua', '$numero', '$complemento', '$bairro', '$cidade', '$estado', '$descricaoevento', '$nomeorganizador', '$descricaoorganizador', '$campoadicional', '$pais', '$moeda', '$pasta', '$tokenpagseguro', '$appidpagseguro', '$appkeypagseguro', '$appkeypaghiper', '$clientidpaypal', '$emailpagseguro');";
 
 	foreach($ingresso as $key => $ing){
 		$referencia = $refingresso++;

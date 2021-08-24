@@ -309,6 +309,10 @@ $('.image-upload-wrap').bind('dragover', function () {
 							
 						</select>
 					</div>
+					<div class="col">
+						<label for="modalidade">Modalidade p/ boleto:</label>
+						<input type="number" min="1" max="400" class="form-control" id="days_due_date" name="days_due_date"/>
+					</div>
 					</div>
 					
 					<div class="row" id="exibiring" style="display:none;">

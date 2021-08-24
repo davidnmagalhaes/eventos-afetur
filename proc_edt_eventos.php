@@ -48,6 +48,7 @@ if((empty($_SESSION['iduser'])) || (empty($_SESSION['usuario'])) || (empty($_SES
 	$clientidpaypal = $_POST['clientidpaypal'];
 	$unidade = $_POST['unidade'];
 	$qtdboleto = $_POST['qtdboleto'];
+	$daysduedate = $_POST['days_due_date'];
 	$unidade = $_POST['unidade'];
 	$tabelabd = $_POST['tabelabd'];
 	$colunabd = $_POST['colunabd'];
@@ -157,7 +158,7 @@ if((empty($_SESSION['iduser'])) || (empty($_SESSION['usuario'])) || (empty($_SES
 	}
 	
 
-    $result_usuario = "UPDATE evn_eventos SET email_copia='$emailcopia', host_bd='$hostbd', password_bd='$passbd', usuario_bd='$usuariobd', banco_bd='$bancobd', dias_checkin='$diascheckin', value_bd='$valuebd', coluna_bd='$colunabd', tabela_bd='$tabelabd', qtdboleto='$qtdboleto', emailpagseguro='$emailpagseguro', emailpagseguro='$emailpagseguro', clientidpaypal='$clientidpaypal', tokenpaghiper='$tokenpaghiper', appkeypaghiper='$appkeypaghiper', appkeypagseguro='$appkeypagseguro', appidpagseguro='$appidpagseguro', tokenpagseguro='$tokenpagseguro', moeda='$moeda', local_pais='$pais', nome_evento='$nome', data_inicio='$datainicial', data_final='$datafinal', hora_inicio='$horainicial', hora_final='$horafinal', local_nome='$localnome', local_cep='$cep', local_logradouro='$rua', local_numero='$numero', local_complemento='$complemento', local_bairro='$bairro', local_cidade='$cidade', local_estado='$estado', descricao_evento='$descricaoevento', organizador_nome='$nomeorganizador', organizador_descricao='$descricaoorganizador', campo_adicional='$campoadicional' WHERE ref='$ref';";
+    $result_usuario = "UPDATE evn_eventos SET days_due_date='$daysduedate', email_copia='$emailcopia', host_bd='$hostbd', password_bd='$passbd', usuario_bd='$usuariobd', banco_bd='$bancobd', dias_checkin='$diascheckin', value_bd='$valuebd', coluna_bd='$colunabd', tabela_bd='$tabelabd', qtdboleto='$qtdboleto', emailpagseguro='$emailpagseguro', emailpagseguro='$emailpagseguro', clientidpaypal='$clientidpaypal', tokenpaghiper='$tokenpaghiper', appkeypaghiper='$appkeypaghiper', appkeypagseguro='$appkeypagseguro', appidpagseguro='$appidpagseguro', tokenpagseguro='$tokenpagseguro', moeda='$moeda', local_pais='$pais', nome_evento='$nome', data_inicio='$datainicial', data_final='$datafinal', hora_inicio='$horainicial', hora_final='$horafinal', local_nome='$localnome', local_cep='$cep', local_logradouro='$rua', local_numero='$numero', local_complemento='$complemento', local_bairro='$bairro', local_cidade='$cidade', local_estado='$estado', descricao_evento='$descricaoevento', organizador_nome='$nomeorganizador', organizador_descricao='$descricaoorganizador', campo_adicional='$campoadicional' WHERE ref='$ref';";
 	
 	
 	
