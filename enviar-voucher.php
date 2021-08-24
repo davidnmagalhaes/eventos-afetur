@@ -114,7 +114,6 @@ $row_editainscr = mysqli_fetch_assoc($editainscr);
 
 			$mail->AddAddress($row_editainscrito['email_inscrito']);
 			$mail->AddCC('murilo@afetur.com.br'); 
-			$mail->AddCC('jaiane@afetur.com.br'); 
 			//$mail->AddBCC('CopiaOculta@dominio.com.br', 'Copia Oculta');
 			$mail->SMTPDebug  = 1;
 			$mail->IsHTML(true); // Define que o e-mail será enviado como HTML
